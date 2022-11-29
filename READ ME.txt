@@ -1,0 +1,30 @@
+========PROGRAM AUTHOR=========
+
+Programmed by Anthony Aceto
+Python version 3.7.4
+Last Updated 26 November 2022
+
+Supported Platforms - Windows
+Intended for Research Purposes
+
+
+
+==========Instructions=========
+
+unzip file *Frame Ripper*
+open .exe file and follow prompts
+Inputs supports (.mp4, .AVI)
+Output file will produce .TIFF frames
+App will close on its own after ripping completes
+Output folder will have all frames
+
+=========Troubleshooting========
+
+Make sure:
+
+1. Video input is in .AVI format
+2. Using a WINDOWS computer/emulator
+3. Output file directory exists
+4. Output file name does not exist
+5. Input video is not longer than 1-2 min (program takes 30ms/frame)
+6. Only click SUBMIT button once while program working
